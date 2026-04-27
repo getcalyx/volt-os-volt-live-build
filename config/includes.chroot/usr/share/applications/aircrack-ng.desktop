@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Aircrack-ng
+Comment=Wireless network cracking suite
+Exec=aircrack-ng
+Icon=network-wireless
+Terminal=true
+Type=Application
+Categories=WirelessAttacks;
