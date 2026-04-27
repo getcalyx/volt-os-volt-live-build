@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Sqlmap
+Comment=Automatic SQL injection and database takeover tool
+Exec=sqlmap
+Icon=utilities-terminal
+Terminal=true
+Type=Application
+Categories=WebAppAnalysis;
