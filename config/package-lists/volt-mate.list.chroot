@@ -1,0 +1,21 @@
+# MATE Desktop
+mate-desktop-environment
+lightdm
+
+# Networking
+network-manager
+network-manager-gnome
+
+# Essentials
+sudo
+vim
+bash-completion
+xfce4-terminal
+
+# Security Tools (initial set)
+nmap
+wireshark
+sqlmap
+hydra
+aircrack-ng
+metasploit-framework
