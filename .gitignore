@@ -1,0 +1,22 @@
+# Live-build output
+live-image-*
+binary/
+chroot/
+cache/
+
+# Logs
+*.log
+
+# Temporary files
+tmp/
+*.tmp
+*.swp
+
+# Editor files
+.vscode/
+.idea/
+*.kate-swp
+
+# OS files
+.DS_Store
+Thumbs.db
