@@ -1,0 +1,132 @@
+<!DOCTYPE Menu PUBLIC "-//freedesktop//DTD Menu 1.0//EN"
+ "http://www.freedesktop.org/standards/menu-spec/1.0/menu.dtd">
+
+<Menu>
+    <Name>Applications</Name>
+
+    <Menu>
+        <Name>Volt OS</Name>
+        <Directory>volt-os.directory</Directory>
+
+        <Menu>
+            <Name>Information Gathering</Name>
+            <Directory>information-gathering.directory</Directory>
+            <Include>
+                <Category>InformationGathering</Category>
+            </Include>
+        </Menu>
+
+        <Menu>
+            <Name>Vulnerability Analysis</Name>
+            <Directory>vulnerability-analysis.directory</Directory>
+            <Include>
+                <Category>VulnerabilityAnalysis</Category>
+            </Include>
+        </Menu>
+
+        <Menu>
+            <Name>Web Application Analysis</Name>
+            <Directory>webapp-analysis.directory</Directory>
+            <Include>
+                <Category>WebAppAnalysis</Category>
+            </Include>
+        </Menu>
+
+        <Menu>
+            <Name>Database Assessment</Name>
+            <Directory>database-assessment.directory</Directory>
+            <Include>
+                <Category>DatabaseAssessment</Category>
+            </Include>
+        </Menu>
+
+        <Menu>
+            <Name>Password Attacks</Name>
+            <Directory>password-attacks.directory</Directory>
+            <Include>
+                <Category>PasswordAttacks</Category>
+            </Include>
+        </Menu>
+
+        <Menu>
+            <Name>Wireless Attacks</Name>
+            <Directory>wireless-attacks.directory</Directory>
+            <Include>
+                <Category>WirelessAttacks</Category>
+            </Include>
+        </Menu>
+
+        <Menu>
+            <Name>Reverse Engineering</Name>
+            <Directory>reverse-engineering.directory</Directory>
+            <Include>
+                <Category>ReverseEngineering</Category>
+            </Include>
+        </Menu>
+
+        <Menu>
+            <Name>Exploitation Tools</Name>
+            <Directory>exploitation-tools.directory</Directory>
+            <Include>
+                <Category>ExploitationTools</Category>
+            </Include>
+        </Menu>
+
+        <Menu>
+            <Name>Sniffing & Spoofing</Name>
+            <Directory>sniffing-spoofing.directory</Directory>
+            <Include>
+                <Category>SniffingSpoofing</Category>
+            </Include>
+        </Menu>
+
+        <Menu>
+            <Name>Post Exploitation</Name>
+            <Directory>post-exploitation.directory</Directory>
+            <Include>
+                <Category>PostExploitation</Category>
+            </Include>
+        </Menu>
+
+        <Menu>
+            <Name>Forensics</Name>
+            <Directory>forensics.directory</Directory>
+            <Include>
+                <Category>Forensics</Category>
+            </Include>
+        </Menu>
+
+        <Menu>
+            <Name>Reporting Tools</Name>
+            <Directory>reporting-tools.directory</Directory>
+            <Include>
+                <Category>ReportingTools</Category>
+            </Include>
+        </Menu>
+
+        <Menu>
+            <Name>OSINT</Name>
+            <Directory>osint.directory</Directory>
+            <Include>
+                <Category>OSINT</Category>
+            </Include>
+        </Menu>
+
+        <Menu>
+            <Name>Social Engineering</Name>
+            <Directory>social-engineering.directory</Directory>
+            <Include>
+                <Category>SocialEngineering</Category>
+            </Include>
+        </Menu>
+
+        <Menu>
+            <Name>Misc Pentesting Tools</Name>
+            <Directory>misc-pentesting.directory</Directory>
+            <Include>
+                <Category>MiscPentesting</Category>
+            </Include>
+        </Menu>
+
+    </Menu>
+</Menu>
