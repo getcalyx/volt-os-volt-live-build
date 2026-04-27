@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Nmap
+Comment=Network exploration tool and security scanner
+Exec=nmap
+Icon=utilities-terminal
+Terminal=true
+Type=Application
+Categories=InformationGathering;
